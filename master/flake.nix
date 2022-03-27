@@ -11,7 +11,6 @@
   inputs.src-bcra-master.ref   = "refs/heads/master";
   inputs.src-bcra-master.owner = "juancarlospaco";
   inputs.src-bcra-master.repo  = "nim-bcra";
-  inputs.src-bcra-master.dir   = "";
   inputs.src-bcra-master.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
